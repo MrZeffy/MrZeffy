@@ -1,15 +1,14 @@
 ### Hi there, I'm Daman - aka Mr.Zeffy 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br />
 
-## I'm a Student and a Full Stack Developer👩‍💻!!
+## I'm a Student and a Full Stack Web Developer👩‍💻!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 📔 I love working on projects.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunities.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and ride motorcycles.
+- ⚡ Fun fact: I love travelling and riding motorcycles.
 
 
 
@@ -28,6 +27,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/java.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
