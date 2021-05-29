@@ -1,13 +1,13 @@
 ### Hi there, I'm Daman - aka Mr.Zeffy 👋
 
 
-## I'm a Student and a Full Stack Developer👩‍💻!!
+## I'm a Student and a Full Stack Web Developer👩‍💻!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 📔 I love working on projects.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunities.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and ride motorcycles.
+- ⚡ Fun fact: I love travelling and riding motorcycles.
 
 
 
