@@ -6,7 +6,7 @@
 
 - 📔 I love working on projects.
 - 🌱 I’m currently learning everything 🤣
-- 👯 Open to work as a backend develoepr.
+- 👯 Open to work as a Web Develoepr.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling and riding motorcycles.
 
