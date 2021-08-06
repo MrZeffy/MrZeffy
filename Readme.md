@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Student and a Full Stack Web Developer👩‍💻!!
+## I'm a Student and a Full Stack Developer👩‍💻!!
 
 - 📔 I love working on projects.
 - 🌱 I’m currently learning everything 🤣
