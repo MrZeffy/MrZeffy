@@ -6,8 +6,8 @@
 
 - 📔 I love working on projects.
 - 🌱 I’m currently learning everything 🤣
-- 👯 Open to work as a Developer/Engineer.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 Working as a Software Engineer.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling and riding motorcycles.
 
 
